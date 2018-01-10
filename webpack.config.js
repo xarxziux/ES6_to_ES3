@@ -30,7 +30,8 @@ module.exports = {
                         ],
                         plugins: [
                             'transform-runtime',
-                            'transform-es3-property-literals'
+                            'transform-es3-property-literals',
+                            'transform-es3-member-expression-literals'
                         ]
                     }
                 }
