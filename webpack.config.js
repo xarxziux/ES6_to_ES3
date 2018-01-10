@@ -29,7 +29,7 @@ module.exports = {
                             }]
                         ],
                         plugins: [
-                            // 'transform-runtime',
+                            'transform-runtime',
                             'transform-es3-property-literals'
                         ]
                     }
